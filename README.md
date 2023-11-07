@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.python.org"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands-adobe%2F512%2F267_Python-512.png&tbnid=pva57HXrn6X0VM&vet=12ahUKEwiYgYXD0rGCAxVQR2wGHaqRDv4QMygAegQIARBt..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&docid=d3dazghIaLJMQM&w=512&h=512&q=python%20icon%20image&client=safari&ved=2ahUKEwiYgYXD0rGCAxVQR2wGHaqRDv4QMygAegQIARBt"></a>
+<a href="https://www.python.org">Py</a>
 
 <!--
 **adityapachchigar/adityapachchigar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
