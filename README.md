@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Pachchigar</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS**
-
 - 📫 How to reach me **pachchigar1912@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1TZWQaC4BfdY4EtqvdradEI0B8P7AFbxC](https://drive.google.com/drive/folders/1TZWQaC4BfdY4EtqvdradEI0B8P7AFbxC)
